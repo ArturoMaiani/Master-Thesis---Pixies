@@ -40,3 +40,5 @@ NN structure of two MLP of 80 by 80
 No negative reward if too many steps are taken, just -1 if collision and +1 if area covered at 60%. In addition i gave reward for each single litter piece.
 
 <img width="467" alt="Schermata 2022-06-15 alle 23 27 24" src="https://user-images.githubusercontent.com/100837287/173933006-3942b656-8416-4610-a608-044fba1e2672.png">
+
+The robot had some sensed actions where it went towards litter pixels but more often in kept going around in circles like it didn't know what to do or where to look for things.

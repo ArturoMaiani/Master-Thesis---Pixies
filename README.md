@@ -18,3 +18,10 @@ Map B: two separate regions.
 The file named "Stable baselines PPO cortile pixies" contains the map corrsponding to the area nearby Pixies base:
 ![aurelia_residence_crop-2](https://user-images.githubusercontent.com/100837287/173916076-2c4f9489-44a3-44a7-86d0-5ac1990008ec.png)
 <img width="550" alt="Schermata 2022-06-15 alle 22 15 56" src="https://user-images.githubusercontent.com/100837287/173919193-f411638c-04a8-447d-8795-14aa86fe4360.png">
+For this one i have used:
+mosse_max=1000
+delta_t=0.7
+flag_robot_su_griglia=-1
+v_mid=0.4
+omega_max=0.6
+<img width="467" alt="Schermata 2022-06-15 alle 23 27 24" src="https://user-images.githubusercontent.com/100837287/173933006-3942b656-8416-4610-a608-044fba1e2672.png">

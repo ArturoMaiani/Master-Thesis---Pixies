@@ -23,6 +23,7 @@ The file named "Stable baselines PPO cortile pixies" contains the map corrspondi
 
 For this one i have used:
 
+
 mosse_max=1000 
 
 delta_t=0.7
@@ -42,3 +43,8 @@ No negative reward if too many steps are taken, just -1 if collision and +1 if a
 <img width="467" alt="Schermata 2022-06-15 alle 23 27 24" src="https://user-images.githubusercontent.com/100837287/173933006-3942b656-8416-4610-a608-044fba1e2672.png">
 
 The robot had some sensed actions where it went towards litter pixels but more often in kept going around in circles like it didn't know what to do or where to look for things.
+
+The file PP°_P[%]£§_.ipynb contains a successful variant of such PPO
+
+https://user-images.githubusercontent.com/100837287/176754780-64b3b937-4e47-4297-a38b-a209b2368194.mov
+

@@ -24,8 +24,11 @@ of litter, which in a real-world scenario could be detected and classifies throu
 Computer Vision techniques. The proposed subroutine is an heuristic method based
 on the combination of a Traveling Salesman Problem and a cubic interpolation task.
 
+An example of a succesful trajectory:
+
 ![episodio26](https://user-images.githubusercontent.com/100837287/194731647-3cb3b2c0-728b-41cc-87e6-7b52b15e451b.jpg)
 
+A simulation of a succesful trajectory using ROS:
 
 https://user-images.githubusercontent.com/100837287/194731634-97513d2d-0fd7-40f1-92b4-41d638fe8ab4.mp4
 

@@ -30,5 +30,6 @@ An example of a succesful trajectory:
 
 A simulation of a succesful trajectory using ROS:
 
-https://user-images.githubusercontent.com/100837287/194731634-97513d2d-0fd7-40f1-92b4-41d638fe8ab4.mp4
+
+https://user-images.githubusercontent.com/100837287/195130198-096f99b6-9028-4b4d-a031-a2587ee3476c.mp4
 

@@ -1,5 +1,11 @@
 ## - Master thesis about deep reinforcement learning
 
+Youtube video about this thesis at the link:
+
+https://www.youtube.com/watch?v=yfWC7MPdn20
+
+Short Summary:
+
 This thesis proposes a Deep Reinforcement Learning based method aimed at finding
 a trajectory for the unicycle model in order for the robot to visit some regions of
 interest on the map in an optimal way and in presence of obstacles. This regions

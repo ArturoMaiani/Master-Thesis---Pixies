@@ -28,7 +28,7 @@ An example of a succesful trajectory:
 
 ![episodio26](https://user-images.githubusercontent.com/100837287/194731647-3cb3b2c0-728b-41cc-87e6-7b52b15e451b.jpg)
 
-A simulation of a succesful trajectory using ROS:
+A simulation of a successful trajectory using ROS:
 
 
 https://user-images.githubusercontent.com/100837287/195130198-096f99b6-9028-4b4d-a031-a2587ee3476c.mp4
